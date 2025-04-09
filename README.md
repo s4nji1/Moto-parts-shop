@@ -20,16 +20,6 @@ A comprehensive motorcycle parts management and sales system with a Laravel back
 - **Order Tracking**: View order status and history
 - **Profile Management**: Update personal information
 
-## 📱 Screenshots
-
-### Admin Platform
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)
-![Parts Management](https://via.placeholder.com/800x400?text=Parts+Management)
-
-### Mobile Application
-![Mobile App Home](https://via.placeholder.com/400x800?text=Mobile+App+Home)
-![Parts Browser](https://via.placeholder.com/400x800?text=Parts+Browser)
-
 ## 🛠️ Technologies
 
 ### Backend
